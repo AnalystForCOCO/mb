@@ -1,6 +1,19 @@
 ## 全自动冲蝗工具
 ![](./main.png)
 
+# 下载地址:
+1.0.7完整包（第一次下载需要下载完整包，之后只要下载更新包替换主程序就可以了）
+
+https://github.com/AnalystForCOCO/share/releases/download/1.0.7/mildom-boomer-v1.0.7.7z
+
+更新包地址：下文件名带update的那个：
+
+https://github.com/AnalystForCOCO/share/releases/latest
+
+备用下载地址
+
+https://www.kzwr.com/sx 手信码：5050e890e759
+
 
 
 
@@ -40,19 +53,6 @@
 6、程序虽然有自动更新功能，但是没怎么测过，如果发生问题了请主动下载更新包
 
 7、程序自动更新后不会自动重启，需要手动再打开一次主程序
-
-# 下载地址:
-1.0.7完整包（第一次下载需要下载完整包，之后只要下载更新包替换主程序就可以了）
-
-https://github.com/AnalystForCOCO/share/releases/download/1.0.7/mildom-boomer-v1.0.7.7z
-
-更新包地址：下文件名带update的那个：
-
-https://github.com/AnalystForCOCO/share/releases/latest
-
-备用下载地址
-
-https://www.kzwr.com/sx 手信码：5050e890e759
 
 ---
 使用流程：
